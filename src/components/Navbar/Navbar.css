@@ -1,0 +1,17 @@
+.right-menu{
+    position: absolute;
+    right: 40px;
+    top: 10px;
+}
+
+.button-login {
+    margin-top: 15px;
+    margin-right: 10px;
+    height: 50px;
+}
+
+.navbar-text {
+    color: white;
+    margin-left: 50px;
+    cursor: pointer;
+}
